@@ -1,5 +1,5 @@
 # BOOKSHELF
-This project is a bookshelf application showing detailed information on each individual book, students are able to add, remove and search up book from this datatbase libary. 
+This project is a bookshelf application showing detailed information on each individual book, students are able to add, remove and search up book from this datatbase library. 
 
 ## GETTING STARTED
 ### Prequisites and local deployment
